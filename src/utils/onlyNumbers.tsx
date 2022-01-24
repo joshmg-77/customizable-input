@@ -1,0 +1,1 @@
+export const onlyNumbers  = (value: string) => /^\d*$/.test(value)
